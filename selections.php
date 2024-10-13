@@ -54,7 +54,7 @@
 <!--  search section starts here-->
 <section class="search2bis text-center">
     <div class="container">
-        <h1>Rejoignez nous sur nos réseaux sociaux !</h1><br><br>
+        <h1>Rejoignez nous sur nos réseaux sociaux ! </h1><br><br>
     </div>
 </section>
 

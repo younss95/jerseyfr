@@ -15,14 +15,12 @@
  <section class="navbar text-center">
     <div class="container">
             <img src="images/jerseytrans.png" alt="logo" class="logo img-responsive">
-        <div class="menu text-right">
         <ul>
             <li><a href="main.php">Accueil</a></li>
             <li><a href="selections.php">Clubs/Selections</a></li>
             <li><a href="maillots.php">Maillots</a></li>
             <li><a href="login.php">Login</a></li>
         </ul>
-        </div>
         <div class="clearfix"></div>
     </div>
  </section>

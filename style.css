@@ -55,32 +55,36 @@
 }
 
 
-.menu{
+.navbar{
+    padding: 0;
+    margin-bottom: 0;
     line-height: 100px;
+
 }
 
 
-.menu ul{
+.navbar ul{
     list-style-type: none;
     overflow: hidden;
 
 }
 
 
-.menu ul li{
+.navbar ul li{
     display: inline;
     padding: 5%;
 
 
 }
 
-.menu ul li:hover{
+.navbar ul li:hover{
     border-radius: 3px; /* Arrondit les coins du carré */
     background-color: #f3f3f3;
+    height: 20%;
 
 }
 
-.menu ul li a{
+.navbar ul li a{
     text-decoration: none;
     color: #FD7272;
     position: relative;
@@ -88,16 +92,12 @@
     
 }
 
-.menu ul li a:hover{
+.navbar ul li a:hover{
     color: #FC427B;
 
 }
 
-.navbar{
-    padding: 0;
-    margin-bottom: 0;
 
-}
 
  
 
