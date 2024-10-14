@@ -9,7 +9,7 @@
                     <a href="#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
                 </li>
                 <li>
-                    <a href="#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+                    <a href="https://x.com/younnss95"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
                 </li>
             </ul>
             <a href="main.php"><img src="images/jerseytrans.png" alt="jerseyfr" class="jerseyfooter"></a>
