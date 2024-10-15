@@ -76,4 +76,8 @@ if(isset($_POST["selections"])){
     header ("Location: selections.php");
 }
 
+if(isset($_POST["clubs"])){
+    header("Location: clubs.php");
+}
+
 ?>
