@@ -65,15 +65,8 @@
 <!--  selection section starts here-->
 
 
-
-
-
-
-
-
-
-<!--  selection section starts here
-<section class="selections">
+ <!--  selection section starts here-->
+ <section class="selections">
     <div class="container2">
         <img src="images/alnassr.jpg" alt="alnassr" class="img-responsive">
         <div class="bg-text">
@@ -86,10 +79,10 @@
     </div>
 </section>
 
--->
-
 <!--  selection section starts here-->
 
+
+ 
 
 
 

@@ -12,14 +12,15 @@
 
 
 
-<!--  selection section starts here-->
+
+ <!--  selection section starts here-->
 <section class="selections">
     <div class="container2">
-        <img src="images/afrique.jpg" alt="africa" class="img-responsive">
+        <img src="images/europe.jpg" alt="europe" class="img-responsive">
         <div class="bg-text">
             <div class="btn-container">
                 <form action="" method="post">
-                    <input type="submit" name="selections" value="AFRIQUE" class="btn btn-primary">
+                    <input type="submit" name="selections" value="EUROPE" class="btn btn-primary">
                 </form>
             </div>
         </div>
@@ -27,6 +28,44 @@
 </section>
 
 <!--  selection section starts here-->
+
+
+ <!--  selection section starts here-->
+<section class="selections">
+    <div class="container2 ameriquesud">
+        <img src="images/ameriquesud.jpg" alt="amerique du sud" class="img-responsive img-adjust">
+        <div class="bg-text">
+            <div class="btn-container">
+                <form action="" method="post">
+                    <input type="submit" name="selections" value="AMERIQUE DU SUD" class="btn btn-primary">
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--  selection section starts here-->
+
+
+
+<!--  selection section starts here-->
+<section class="selections">
+    <div class="container2">
+        <img src="images/america (2).jpg" alt="amerique" class="img-responsive">
+        <div class="bg-text">
+            <div class="btn-container">
+                <form action="" method="post">
+                    <input type="submit" name="selections" value="AMERIQUE DU NORD" class="btn btn-primary">
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--  selection section starts here-->
+
+
+
 
 
 <!--  selection section starts here-->
@@ -51,11 +90,11 @@
 <!--  selection section starts here-->
 <section class="selections">
     <div class="container2">
-        <img src="images/america (2).jpg" alt="amerique" class="img-responsive">
+        <img src="images/afrique.jpg" alt="africa" class="img-responsive">
         <div class="bg-text">
             <div class="btn-container">
                 <form action="" method="post">
-                    <input type="submit" name="selections" value="AMERIQUE DU NORD" class="btn btn-primary">
+                    <input type="submit" name="selections" value="AFRIQUE" class="btn btn-primary">
                 </form>
             </div>
         </div>
@@ -67,40 +106,9 @@
 
 
 
-<!--  selection section starts here-->
-<section class="selections">
-    <div class="container2 ameriquesud">
-        <img src="images/ameriquesud.jpg" alt="amerique du sud" class="img-responsive img-adjust">
-        <div class="bg-text">
-            <div class="btn-container">
-                <form action="" method="post">
-                    <input type="submit" name="selections" value="AMERIQUE DU SUD" class="btn btn-primary">
-                </form>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!--  selection section starts here-->
 
 
 
-
-<!--  selection section starts here-->
-<section class="selections">
-    <div class="container2">
-        <img src="images/europe.jpg" alt="europe" class="img-responsive">
-        <div class="bg-text">
-            <div class="btn-container">
-                <form action="" method="post">
-                    <input type="submit" name="selections" value="EUROPE" class="btn btn-primary">
-                </form>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!--  selection section starts here-->
 
 
 <!--  reseaux section starts here-->
