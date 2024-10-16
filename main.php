@@ -21,10 +21,12 @@
     <div class="container">
         <img src="images/saudi.jpg" alt="saudi">
         <div class="texte">
-            <h2>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus ipsa tenetur, vitae ex rerum, odit facilis laudantium ipsum sit maiores fugiat ratione nulla veniam voluptates itaque sapiente, facere suscipit modi!</h2><br>
-            <h2>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus ipsa tenetur, vitae ex rerum, odit facilis laudantium ipsum sit maiores fugiat ratione nulla veniam voluptates itaque sapiente, facere suscipit modi!</h2><br>
-            <h2>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus ipsa tenetur, vitae ex rerum, odit facilis laudantium ipsum sit maiores fugiat ratione nulla veniam voluptates itaque sapiente, facere suscipit modi!</h2><br>
-            <h2>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus ipsa tenetur, vitae ex rerum, odit facilis laudantium ipsum sit maiores fugiat ratione nulla veniam voluptates itaque sapiente, facere suscipit modi!</h2><br>   
+            <h1>"Voyagez à travers le monde du football, un maillot à la fois."</h1><br><br><br>
+            <h2>Plongez dans l'univers des clubs et des équipes de chaque continent. Chaque maillot est une histoire, un souvenir, une culture à découvrir. Explorez, collectionnez et partagez votre passion pour le foot.</h2><br><br><br><br><br><br><br><br><br>
+            <h1>"Le football : une invitation au voyage et à la découverte."</h1><br><br><br>
+            <h2>À travers chaque maillot, revivez les moments de gloire et les traditions des équipes du monde entier. Que vous soyez fan d'un club local ou d'une équipe lointaine, il y a un maillot qui raconte votre histoire.</h2>
+        
+        
         </div>
     </div>
  </section>
@@ -36,8 +38,8 @@
     <div class="container">
         <img src="images/real.jpg" alt="real">
         <div class="texte">
-            <h2>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus ipsa tenetur, vitae ex rerum, odit facilis laudantium ipsum sit maiores fugiat ratione nulla veniam voluptates itaque sapiente, facere suscipit modi!</h2><br>
-            <h2>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus ipsa tenetur, vitae ex rerum, odit facilis laudantium ipsum sit maiores fugiat ratione nulla veniam voluptates itaque sapiente, facere suscipit modi!</h2><br>
+            <h1>"Transformez votre passion du football en une aventure mondiale."</h1><br><br><br>
+            <h2>Ici, le maillot de foot est bien plus qu'un simple tissu : c'est un souvenir, une passion, un symbole d'appartenance. Découvrez des maillots de clubs iconiques et des histoires uniques qui vous transporteront aux quatre coins du globe.</h2><br><br><br><br><br><br><br><br><br>
         </div>
     </div>
  </section>

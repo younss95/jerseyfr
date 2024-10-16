@@ -191,6 +191,18 @@
     
 }
 
+.texte h1{
+
+        color: #FD7272;
+        font-family: 'Dancing Script', cursive;
+        font-weight: 100;
+        margin-top: 1%;
+        padding-right: 1%;
+        font-size: 60px;
+            
+        
+ }
+
 .description .container {
     display: flex;
     align-items: flex-start; /* Aligne le texte et l'image en haut */
@@ -202,7 +214,7 @@
 
 .description img {
     float: left; /* Permet d'aligner l'image à gauche */
-    margin-right: 50px; /* Espace entre l'image et le texte */
+    margin-right: 30px; /* Espace entre l'image et le texte */
     width: 38%; /* Ajustez la taille de l'image */
     margin-left: 1%;
     border-radius: 5%;
@@ -237,6 +249,7 @@
     margin: 0;
     font-size: 1.7em; /* Ajustez la taille du texte */
     line-height: 1.5; /* Espace entre les lignes du texte */
+    
 }
 
 .description2 .texte {
